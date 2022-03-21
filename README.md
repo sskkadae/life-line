@@ -11,7 +11,7 @@
   <body>                    
       <script src= "js/three.js"></script>
       <script>
-                      
+      consad                
                       
       </script>
    </body>
