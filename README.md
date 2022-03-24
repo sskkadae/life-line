@@ -1,7 +1,7 @@
 # life-line
 <html>
   <head>
-     <meta chareset ='utf-8">
+     <meta chareset ="utf-8">
      <title>My first three.js app</title>
      <style>
          body { margin: 0; }
